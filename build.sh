@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="nadinc/mvn"
+IMAGE_NAME="voviya02/docker"
 TAG="latest"
 
 # Build Docker image
